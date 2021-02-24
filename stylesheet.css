@@ -1,0 +1,63 @@
+html {
+    scroll-behavior: smooth;
+}
+
+div,  ul,  li, h1, h2, h3, h4, h5, h6, p ,body{
+    margin: 0;
+    padding: 0;
+}
+
+.header-bg {
+  background-image: url();
+  background-position: center center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 100vh;
+}
+
+.top-text{
+  position: absolute;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  margin: auto;
+  width: 50%;
+  height:40%;
+}
+
+.colum{
+  position: relative;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  margin: auto;
+  width: 50%;
+}
+
+.text,nav,.heading{
+  text-align: center;
+}
+
+.navi {
+  display: inline-block;
+  width: 15%;
+  color: #333;
+}
+
+li{
+  list-style:none;
+}
+
+section{
+  padding:120px 0px;
+}
+
+.heading{
+  margin-bottom: 100px;
+}
+
+.prof{
+  padding: 20px;
+}
