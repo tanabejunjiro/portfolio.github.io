@@ -1,0 +1,112 @@
+html {
+    scroll-behavior: smooth;
+}
+
+div,  ul,  li, h1, h2, h3, h4, h5, h6, p ,body{
+    margin: 0;
+    padding: 0;
+}
+
+header{
+}
+
+nav{
+  padding: 30px;
+}
+
+a{
+  color: #222222;
+}
+
+a:hover{
+  color:#B20000;
+}
+
+.header-bg {
+  background-image: url(img/4230832_s.jpg);
+  background-position: center center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 80vh;
+
+}
+
+.top-text{
+  position: absolute;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  margin: auto;
+  width: 50%;
+  height:40%;
+  font-family:serif;
+  font-size: 30px;
+  font-style: italic;
+  color: White;
+}
+
+.colum{
+  position: relative;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  margin: auto;
+  width: 50%;
+}
+
+.text,nav,.heading{
+  text-align: center;
+}
+
+p{
+  color: #222222;
+  font-family: serif;
+}
+
+.navi {
+  display: inline-block;
+  width: 15%;
+  color: #333;
+}
+
+li{
+  list-style:none;
+}
+
+section{
+  padding:120px 0px;
+}
+
+.heading{
+  margin-bottom: 100px;
+  color: #222222;
+  font-size: 40px;
+  font-family: serif;
+}
+
+.prof{
+  padding: 20px;
+}
+
+h3{
+  color: #222222;
+  font-size: 20px;
+  font-family: serif;
+  margin-bottom: 60px;
+}
+
+.work{
+  padding-bottom: 190px;
+}
+
+.source{
+  padding: 30px;
+}
+
+footer{
+  padding: 20px;
+  border-top: 1px solid;
+
+}
